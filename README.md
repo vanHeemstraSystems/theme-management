@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+theme-management
+# Theme Management
 
 > Slugline
 
