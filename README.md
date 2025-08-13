@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/theme-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/theme-management/actions/workflows/publish.yml)
+
 theme-management
 # Theme Management
 
